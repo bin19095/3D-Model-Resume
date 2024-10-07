@@ -9,6 +9,8 @@ This repository contains **starter code** for Next.js Creative Portfolio website
 For Demo checkout following link👇: <br />
 [Nextjs Creative Portfolio Website Demo](https://my-3dresume.netlify.app) <br />
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/afeba4b0-209c-4fcb-ab4b-ce6a1bc06b3b/deploy-status)](https://app.netlify.com/sites/my-3dresume/deploys)
+
 Final Code👇: <br />
 ➡ Link 💚: [Nextjs Creative Portfolio Website Final Code](https://github.com/codebucks27/Next.js-Creative-Portfolio-Website) <br />
 <!--- ➡ Link 2💚(If you want to support): [Nextjs Creative Portfolio Website Final Code](https://codebucks.gumroad.com/l/ypzlu) <br /> --->
