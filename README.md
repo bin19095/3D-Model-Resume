@@ -7,18 +7,17 @@
 This repository contains **starter code** for Next.js Creative Portfolio website built using Next.js and Three.js. <br />
 
 For Demo checkout following link👇: <br />
-[Nextjs Creative Portfolio Website Demo](https://next-js-creative-portfolio-website.vercel.app/) <br />
+[Nextjs Creative Portfolio Website Demo](https://my-3dresume.netlify.app) <br />
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/afeba4b0-209c-4fcb-ab4b-ce6a1bc06b3b/deploy-status)](https://app.netlify.com/sites/my-3dresume/deploys)
 
 Final Code👇: <br />
 ➡ Link 💚: [Nextjs Creative Portfolio Website Final Code](https://github.com/codebucks27/Next.js-Creative-Portfolio-Website) <br />
 <!--- ➡ Link 2💚(If you want to support): [Nextjs Creative Portfolio Website Final Code](https://codebucks.gumroad.com/l/ypzlu) <br /> --->
 
-If you want to learn how to create it please follow below tutorial👇: <br />
-➡ Tutorial Link 💚: [Personal Portfolio Website with Next.js, Three.js & Tailwind CSS Tutorial](https://youtu.be/T5t46vuW8fo) 
-[![YouTube Video Views](https://img.shields.io/youtube/views/T5t46vuW8fo
-)](https://youtu.be/T5t46vuW8fo) <br />
 
-💚 Checkout my personal website [DevDreaming](https://devdreaming.com) <br />
+
+💚 Checkout my personal website [DevDreaming](www.binayprofile.com) <br />
 
 ---
 # ⭐DO NOT FORGET TO STAR THIS REPO⭐
