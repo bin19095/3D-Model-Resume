@@ -38,8 +38,10 @@ module.exports = {
         'spin-slow-reverse': 'spin-reverse 40s linear infinite',
       },
       customBg:{
-      "bgTest":   "  bg-background/20 border border-accent/30 border-solid backdrop-blur-[6px] shadow-glass-inset hover:shadow-glass-sm p-8 rounded-xl flex items-center justify-center ",
-
+      "bgTest": 'bg-background/20 border border-accent/30 border-solid backdrop-blur-[6px] shadow-glass-inset hover:shadow-glass-sm p-8 rounded-xl flex items-center justify-center ',
+      },
+      screens: {
+        xs:'480px'
       },
     },
   },

@@ -7,15 +7,16 @@ const Contact = () => {
   return (
     <>
         <Image 
+        priority size="100vw"
         src={bg}
         alt="background-image"
         className='-z-50 fixed top-0 left-0 w-full h-full object-center opacity-25'/>
-        <article className='relative w-full flex flex-col items-center justify-center space-y-8'>
-            <div className="flex flex-col items-center justify-center space-y-6 w-3/4">
+        <article className='relative w-full flex flex-col items-center  py-8 sm:py-0 justify-center space-y-8'>
+            <div className="flex flex-col items-center justify-center  space-y-6  sm:*:w-3/4">
              <h1 className="text-accent font-semibold text-center text-4xl capitalize ">
                 Summon The Developer
              </h1>
-             <p className="text-center font-light">
+             <p className="text-center font-light text-sm xs:text-base">
                 Hi, This is code wizard Binay Maharjan you are
                 visiting indicates that you want to connect to the wizard.
                 If you have any other question or want to know more about the
